@@ -5,7 +5,7 @@ package sem_1;
 
 public class task5 {
     public static void main(String[] args) {
-        String s = "Welcome to the Java course";
+        String s = "Добро пожаловать на курс по Java";
         String reversed = reverseWords(s);
         System.out.println(reversed);
 

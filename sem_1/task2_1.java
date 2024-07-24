@@ -6,6 +6,7 @@
 
 
 package sem_1;
+import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
@@ -14,7 +15,8 @@ public class task2_1 {
     public static void main(String[] args) {
         LocalDateTime dateTime = LocalDateTime.now();
         LocalTime time = dateTime.toLocalTime();
-        System.out.println("Time is: " + time);
+        DateTimeFormatter dtf = DateTimeFormatter.ofPattern("HH:mm:ss");
+        System.out.println("Time is: " + dtf.format(time));
         LocalTime morningStart = LocalTime.of(5, 0);
         LocalTime morningEnd = LocalTime.of(11, 59);
 
@@ -29,6 +31,7 @@ public class task2_1 {
 
         Scanner iScanner = new Scanner(System.in);
         System.out.println("What is your name: ");
+//        String name = new Scanner(System.in).next();
         String name = iScanner.nextLine();
         // System.out.printf("Hello, %s", name);
         if (time.isAfter(morningStart) && time.isBefore(morningEnd.plusSeconds(1))) {
@@ -47,3 +50,4 @@ public class task2_1 {
         iScanner.close();
     }
 }
+// streams should be closed. Scanner is a stream.
