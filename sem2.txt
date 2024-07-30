@@ -1,0 +1,14 @@
+.git
+file.txt
+first.txt
+lecture1
+lecture2
+lecture3
+lecture4
+lecture5
+lecture6
+log.txt
+log.xml
+second.txt
+summary.txt
+test.bin
