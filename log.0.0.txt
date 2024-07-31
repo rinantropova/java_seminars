@@ -1,0 +1,26 @@
+Jul 29, 2024 2:40:26 PM sem_2.task5 readDir
+INFO: Error reading directory: C:\Users\Administrator\OneDrive\Documents\GeekBrains\java_intro\lectures
+Jul 29, 2024 2:40:26 PM sem_2.task5 readDir
+INFO: Error reading directory: C:\Users\Administrator\OneDrive\Documents\GeekBrains\java_intro\lectures
+Jul 29, 2024 2:40:26 PM sem_2.task5 readDir
+INFO: Error reading directory: C:\Users\Administrator\OneDrive\Documents\GeekBrains\java_intro\lectures
+Jul 29, 2024 2:40:26 PM sem_2.task5 readDir
+INFO: Error reading directory: C:\Users\Administrator\OneDrive\Documents\GeekBrains\java_intro\lectures
+Jul 29, 2024 2:40:26 PM sem_2.task5 readDir
+INFO: Error reading directory: C:\Users\Administrator\OneDrive\Documents\GeekBrains\java_intro\lectures
+Jul 29, 2024 2:40:26 PM sem_2.task5 readDir
+INFO: Error reading directory: C:\Users\Administrator\OneDrive\Documents\GeekBrains\java_intro\lectures
+Jul 29, 2024 2:40:26 PM sem_2.task5 readDir
+INFO: Error reading directory: C:\Users\Administrator\OneDrive\Documents\GeekBrains\java_intro\lectures
+Jul 29, 2024 2:40:26 PM sem_2.task5 writeFile
+INFO: Error writing directory: lecture1
+Jul 29, 2024 2:40:26 PM sem_2.task5 writeFile
+INFO: Error writing directory: lecture3
+Jul 29, 2024 2:40:26 PM sem_2.task5 writeFile
+INFO: Error writing directory: lecture5
+Jul 29, 2024 2:40:26 PM sem_2.task5 writeFile
+INFO: Error writing directory: log.xml
+Jul 29, 2024 2:40:26 PM sem_2.task5 writeFile
+INFO: Error writing directory: second.txt
+Jul 29, 2024 2:40:26 PM sem_2.task5 writeFile
+INFO: Error writing directory: test.bin
